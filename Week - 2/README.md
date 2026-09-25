@@ -102,6 +102,17 @@ Install the required libraries:
 pip install pandas numpy matplotlib seaborn
 Then open the notebook and run the cells.
 
+
+<img width="734" height="560" alt="image" src="https://github.com/user-attachments/assets/a52b9eee-a11f-44d5-8165-f697ecb7417c" />
+<img width="712" height="468" alt="image" src="https://github.com/user-attachments/assets/6c1cf47d-54c9-4728-8972-c6de744ea804" />
+<img width="573" height="459" alt="image" src="https://github.com/user-attachments/assets/115471e2-c48b-4bc2-b985-8fc02e61aaad" />
+<img width="567" height="451" alt="image" src="https://github.com/user-attachments/assets/cf7ca7cb-ad79-430d-8e60-dccd9221952d" />
+<img width="593" height="452" alt="image" src="https://github.com/user-attachments/assets/f06ace2a-22f6-4ba1-ad6d-1bbb7b2834a4" />
+<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/a0e21f28-bb07-462a-982a-aaf4d6de4db0" />
+<img width="600" height="503" alt="image" src="https://github.com/user-attachments/assets/2c85fd01-4757-457a-bdd7-f0b7f037bdbd" />
+<img width="589" height="453" alt="image" src="https://github.com/user-attachments/assets/4cd69885-a70b-422a-8311-9d74722741bc" />
+
+
 👨‍💻 Author
 Thangarathi A
 
@@ -110,4 +121,4 @@ BCA Student
 📌 Conclusion
 This project demonstrates how Python libraries can be used to perform exploratory data analysis and visualization on a retail dataset. The analysis provides insights into sales, profit, categories, discounts, delivery time, and correlations among numerical variables.
 
-WhatsApp Image 2026-08-11 at 10 17 38 AM WhatsApp Image 2026-08-11 at 10 17 57 AM WhatsApp Image 2026-08-11 at 10 18 11 AM WhatsApp Image 2026-08-11 at 10 18 26 AM WhatsApp Image 2026-08-11 at 10 18 40 AM WhatsApp Image 2026-08-11 at 10 18 52 AM WhatsApp Image 2026-08-11 at 10 19 11 AM WhatsApp Image 2026-08-11 at 10 20 48 AM
+
