@@ -60,5 +60,14 @@ Shopify stock closing price trend chart
 20-day and 50-day moving average chart
 Daily return calculations
 Daily return distribution histogram
+
+<img width="695" height="562" alt="image" src="https://github.com/user-attachments/assets/d0d5437e-fc4d-4c10-8742-630f431942de" />
+<img width="747" height="575" alt="image" src="https://github.com/user-attachments/assets/da52054a-da5e-44da-8b5b-644e0aa38db0" />
+<img width="762" height="518" alt="image" src="https://github.com/user-attachments/assets/ee450bb6-4741-4ee4-bd8e-57c33bc4faba" />
+<img width="1077" height="562" alt="image" src="https://github.com/user-attachments/assets/9c15fa6c-e872-498e-82a3-d8c423775a9f" />
+<img width="751" height="587" alt="image" src="https://github.com/user-attachments/assets/5bdce661-d856-43ed-874e-071144d4f5a6" />
+<img width="1081" height="606" alt="image" src="https://github.com/user-attachments/assets/6aed45cc-0987-4dfd-b4db-bc0515dfb8ef" />
+
+
 Conclusion
 This project demonstrates how Python can be used for stock market analysis. By visualizing stock prices, calculating moving averages, and analyzing daily returns, investors and analysts can better understand Shopify's stock performance and market behavior.
