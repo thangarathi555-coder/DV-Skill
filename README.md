@@ -84,27 +84,27 @@ The project provided insights into stock price behavior and market fluctuations.
 
 ---
 
-# Week 5 – Shopify Stock Analysis
+# Week 5 – Healthcare Data Analysis Part(A)
 
 ## Introduction
 
-In Week 5, I continued working on Shopify stock data analysis and focused on deeper trend evaluation and return analysis.
+In Week 5, I worked on analyzing a healthcare dataset using Python to understand medical codes, hospital stay duration, and billing amounts.
 
 ## Work Performed
 
-* Performed stock price trend analysis.
-* Calculated moving averages for performance comparison.
-* Studied daily returns and volatility patterns.
-* Visualized return distributions using histograms.
-* Compared stock movements over different time periods.
+* Loaded and explored the healthcare dataset.
+* Checked and standardized medical codes.
+* Converted admission and discharge dates into datetime format.
+* Calculated hospital stay duration.
+* Analyzed billing amount statistics.
+* Generated descriptive statistics and visualizations.
 
 ## Conclusion
 
-The analysis strengthened my knowledge of financial data analytics and helped me understand stock volatility and investment-related metrics.
+This analysis helped me understand healthcare data, patient stay patterns, and billing information while improving my Python data analysis skills.
 
----
 
-# Week 6 – Healthcare Data Analysis
+# Week 6 – Healthcare Data Analysis Part(B)
 
 ## Introduction
 
