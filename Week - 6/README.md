@@ -91,5 +91,12 @@ Healthcare costs vary across medical conditions.
 Insurance providers show different billing patterns.
 Monthly admissions reveal healthcare demand trends.
 Correlation analysis helps identify relationships among age, hospital stay duration, and billing amount.
+
+<img width="1290" height="657" alt="image" src="https://github.com/user-attachments/assets/4d929585-4501-4bab-b5bb-a3635d80c7fc" />
+<img width="1330" height="665" alt="image" src="https://github.com/user-attachments/assets/9ff23da7-4d0d-46bf-9266-3b74495e897e" />
+<img width="1362" height="631" alt="image" src="https://github.com/user-attachments/assets/8d629126-fe8c-4cd4-aaf1-6465408b723d" />
+
+
+
 Conclusion
 This project demonstrates the use of data analytics in healthcare. By analyzing admissions, billing patterns, insurance data, and patient stay durations, valuable insights can be obtained to support hospital management and healthcare decision-making.
