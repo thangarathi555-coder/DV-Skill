@@ -156,3 +156,33 @@ Student performance statistics, percentage calculations, and outlier analysis.
 ## Conclusion
 
 This project demonstrated the application of data analytics in the healthcare sector. The analysis provided valuable insights into patient care, hospital operations, and billing trends while improving my data visualization and analytical skills.
+
+# Week 8 - Students Performance Visualization
+
+## Overview
+This project analyzes student performance data and creates visualizations using Python.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Features
+- Data Exploration
+- Bar Charts
+- Box Plots
+- Pair Plots
+- Correlation Heatmap
+
+## Dataset
+`studentperformance_preprocessed.csv`
+
+## Run
+```bash
+python students_performance_visualization.py
+```
+
+## Author
+Thangarathi.A
